@@ -77,6 +77,7 @@ namespace PersonalProjectLab
 
             while (cont == "yes");
 
+            Console.WriteLine("Enjoy your woodworking project!");
         }
     }
 }
